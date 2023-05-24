@@ -25,8 +25,9 @@
   border-radius: 6px;
 }
 .form input[type="text"]:focus,
-.form button[type="submit"]:focus{
+.form button[type="submit"]{
   outline:none;
+
 }
 .form button[type="submit"]{
   background-color: #008080;

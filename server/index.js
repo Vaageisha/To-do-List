@@ -3,6 +3,7 @@ const mongoose = require('mongoose');
 const dotenv= require('dotenv').config();
 const cors= require('cors');
 
+
 const app= express();
 //to get data into json format we use express.json()
 app.use(express.json());
